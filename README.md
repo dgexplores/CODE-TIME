@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dgexplores/CODE-TIME/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/dgexplores/CODE-TIME/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/dgexplores/CODE-TIME/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/dgexplores/CODE-TIME/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Hash Table
