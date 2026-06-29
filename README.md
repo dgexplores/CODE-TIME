@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dgexplores/CODE-TIME/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/dgexplores/CODE-TIME/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/dgexplores/CODE-TIME/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dgexplores/CODE-TIME/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dgexplores/CODE-TIME/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3870-count-commas-in-range](https://github.com/dgexplores/CODE-TIME/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
