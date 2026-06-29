@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/dgexplores/CODE-TIME/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/dgexplores/CODE-TIME/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/dgexplores/CODE-TIME/tree/master/3873-maximum-points-activated-with-one-addition) |
+## Enumeration
+|  |
+| ------- |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/dgexplores/CODE-TIME/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 <!---LeetCode Topics End-->
