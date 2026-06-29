@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/dgexplores/CODE-TIME/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dgexplores/CODE-TIME/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dgexplores/CODE-TIME/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dgexplores/CODE-TIME/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dgexplores/CODE-TIME/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
