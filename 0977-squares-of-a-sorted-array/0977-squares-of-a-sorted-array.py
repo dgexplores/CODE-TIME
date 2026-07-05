@@ -19,8 +19,8 @@ class Solution:
 
         # Case 2: No positive numbers
         if len(pos) == 0:
-            res = [x * x for x in neg][::-1]
-            #res.reverse()
+            res = [x * x for x in neg]
+            res.reverse()
             return res
 
         # Case 3: Both exist
