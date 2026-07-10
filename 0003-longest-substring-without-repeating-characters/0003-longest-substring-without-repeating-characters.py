@@ -1,15 +1,17 @@
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int :
+    def lengthOfLongestSubstring(self, s: str) -> int:
         left = 0
-        last_index = {}
+        freq = {}
         max_len = 0
 
-        for right, ch in enumerate(s):
-            # if char already in window, move left pointer
-            if ch in last_index and last_index[ch] >= left:
-                left = last_index[ch] + 1
+        for right in range(len(s)):
+            ch = s[right]
+            freq[ch] = freq.get(ch, 0) + 1
 
-            last_index[ch] = right
+            while freq[ch] > 1:
+                freq[s[left]] -= 1
+                left += 1
+
             max_len = max(max_len, right - left + 1)
 
         return max_len
